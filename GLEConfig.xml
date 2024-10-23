@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2212" desc="Lottery Game" studio="crdc" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Emoti Collect Super Spin WLA" version="1.0.19" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="10,20,25,50,100,200,300,500,650,1000,1500,2000,3000,4000,5000"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="en,en_US,nb_NO,de_BE,fr_BE,nl_BE,tr_TR,nl_NL"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N">
+			
+            <!-- ZER -->
+            <!--<paymodel modelid="300-2212-099"  revealId="2212" revealVersionId="2212"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-099"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-099" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-099" clienttype="HTML" configcode="PHLP"/>-->
+
+            <!-- NT -->
+            <paymodel modelid="300-2212-001"  revealId="4608" revealVersionId="4608"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-001"
+                      hibethold="25.00" lobethold="25.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-001" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-001" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- LNB -->
+            <paymodel modelid="300-2212-002"  revealId="4608" revealVersionId="4602"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-002"
+                      hibethold="31.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-002" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-002" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- GA -->
+            <paymodel modelid="300-2212-003"  revealId="4608" revealVersionId="4602"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-003"
+                      hibethold="22.00" lobethold="22.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-003" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-003" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- RI -->
+            <paymodel modelid="300-2212-004"  revealId="4608" revealVersionId="4602"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-004"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-004" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-004" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- KY -->
+            <paymodel modelid="300-2212-005"  revealId="4608" revealVersionId="4602"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-005"
+                      hibethold="16.00" lobethold="16.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-005" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-005" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- TUR 70% -->
+            <paymodel modelid="300-2212-006"  revealId="4608" revealVersionId="4602"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-006"
+                      hibethold="30.00" lobethold="30.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-006" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-006" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- TUR 65% -->
+            <paymodel modelid="300-2212-007"  revealId="4608" revealVersionId="4602"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-007"
+                      hibethold="35.00" lobethold="35.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-007" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-007" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- NLO -->
+            <paymodel modelid="300-2212-008"  revealId="4608" revealVersionId="4602"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Emoti Collect Super Spin WLA : 300-2212-008"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2212-008" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2212-008" clienttype="HTML" configcode="PHLP"/>
+
+            <denom currencycode="EUR" amount="0.01" />
+            <denom currencycode="FUN" amount="0.01"/>
+            <denom currencycode="NOK" amount="0.01"/>
+            <denom currencycode="TRY" amount="0.01"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>
